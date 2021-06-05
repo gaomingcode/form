@@ -1,4 +1,20 @@
-# jQuery Form [![Build Status](https://travis-ci.org/jquery-form/form.svg?branch=master)](https://travis-ci.org/jquery-form/form)
+# jQuery Form
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-form.svg)](https://github.com/gaomingcode/jquery-form)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.form)](https://github.com/gaomingcode/jquery-form)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-form)](https://github.com/gaomingcode/jquery-form)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.form
+```
+
+## ReadMe from Origin
+
+[![Build Status](https://travis-ci.org/jquery-form/form.svg?branch=master)](https://travis-ci.org/jquery-form/form)
 
 ## Overview
 The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX. The main methods, ajaxForm and ajaxSubmit, gather information from the form element to determine how to manage the submit process. Both of these methods support numerous options which allow you to have full control over how the data is submitted.

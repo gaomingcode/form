@@ -21,17 +21,5 @@
     ],
     "support": {
         "issues": "https://github.com/jquery-form/form/issues"
-    },
-    "extra": {
-        "component": {
-            "scripts": [
-                "src/jquery.form.js"
-            ],
-            "shim": {
-                "deps": [
-                    "jquery"
-                ]
-            }
-        }
     }
 }
